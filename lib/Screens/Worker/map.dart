@@ -54,7 +54,7 @@ class _mapState extends State<map> {
       polylines.clear();
       polylineCoordinates.clear();
       PolylineResult result = await polylinePoints.getRouteBetweenCoordinates(
-        'AIzaSyAceWhs-u6tsGbgI8bn_YYxygz-yPOSaPQ',
+        'API_KEY',
         PointLatLng(widget.marker[1].position.latitude,
             widget.marker[1].position.longitude),
         PointLatLng(widget.marker[0].position.latitude,
