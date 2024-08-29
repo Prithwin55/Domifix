@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164515640688",
+    "project_id": "domifix-75968",
+    "storage_bucket": "domifix-75968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164515640688:android:ea9e361bca7847bf32cbb5",
+        "android_client_info": {
+          "package_name": "com.example.domifix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDixbaxhIh7pLrzmIcu5e6wa5hih6Xwceg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
